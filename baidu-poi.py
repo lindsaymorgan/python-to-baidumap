@@ -21,7 +21,7 @@ json_name = 'data_tmap.json'
 # 请替换为自己申请的key值：申请Web服务API类型KEY http://lbsyun.baidu.com/apiconsole/key?application=key
 # ak=8VUjfqGwgnHwEZLxwPpnZvO1Sgeq2HFO
 # http://api.map.baidu.com/place/v2/search?query=卫生服务中心&tag=医疗&page_size=20&page_num=0&scope=2&region=上海&coord_type=3&output=json&ak=8VUjfqGwgnHwEZLxwPpnZvO1Sgeq2HFO
-url_amap = 'http://api.map.baidu.com/place/v2/search?query=地铁站&tag=交通设施&page_size=20&page_num=pageindex&scope=1&region=北京市&coord_type=3&output=json&ak=8VUjfqGwgnHwEZLxwPpnZvO1Sgeq2HFO'
+url_amap = 'http://api.map.baidu.com/place/v2/search?query=地铁站&tag=交通设施&page_size=20&page_num=pageindex&scope=1&region=北京市&coord_type=3&output=json&ak=自己的key'
 # url_amap = 'http://api.map.baidu.com/place/v2/search?query=地铁站&tag=交通设施&page_size=20&page_num=0&scope=1&bounds=39.671107, 116.078440,40.233799, 116.431564&coord_type=3&output=json&ak=8VUjfqGwgnHwEZLxwPpnZvO1Sgeq2HFO'
 # url_amap = 'http://api.map.baidu.com/place/v2/search?query=地铁站&tag=交通设施&page_size=20&page_num=0&scope=1&bounds=39.671107, 116.431564,40.241761, 116.757228&coord_type=3&output=json&ak=8VUjfqGwgnHwEZLxwPpnZvO1Sgeq2HFO'
 
